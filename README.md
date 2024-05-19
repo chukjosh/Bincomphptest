@@ -1,4 +1,4 @@
-# Binconphptest
+# Bincomphptest
 <!-- Author details-->
 => Name:
     . Joshua Chukwurah
