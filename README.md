@@ -1,13 +1,13 @@
 # Bincomphptest
 <!-- Author details-->
-=> Name:
+=> Author Name:
     . Joshua Chukwurah
 
 => Github Link:
     . https://github.com/chukjosh
 
 <!-- Project Breakdown -->
-=> Name:
+=>Project Name:
     . Bincomphptest
 
 => Function:
