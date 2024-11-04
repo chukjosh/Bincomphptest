@@ -1,24 +1,29 @@
 # Bincomphptest
-<!-- Project Breakdown -->
-=> Project Name:
-    . Bincomphptest
 
-=> Function:
-    . The central idea of the project is to be able to get an estimted result for each individual polling unit in each local government
+## Project Overview
+**Project Name:**  
+Bincomphptest
 
-=> Database Connection (db_connection.php):
-    . Connects to the MySQL database.
+**Function:**  
+The primary objective of this project is to estimate results for each individual polling unit within each local government area.
 
-=> Fetching individual Polling Units(individual_results.php):
-    . Retrieves all polling units from the database to populate the select box.
+## Database Connection
+**File:** `db_connection.php`  
+Establishes a connection to the MySQL database.
 
-=> Fetching LGA Summed Polling Unit Results(summed_results.php):
-    . Retrives all summed results of each LGA
-    . Uses a select combo
+## Fetching Individual Polling Units
+**File:** `individual_results.php`  
+Retrieves all polling units from the database to populate the selection box.
 
-=> Adding Polling Unit and Results(summed_results.php):
-    . Adds new polling units along with their respaective results of each party.
-    . Uses a select combo
+## Fetching LGA Summed Polling Unit Results
+**File:** `summed_results.php`  
+- Retrieves the summed results for each local government area (LGA).
+- Utilizes a selection combo for user interaction.
 
-=> CSS Styling:
-    . Styles the form and table to improve the user interface.
+## Adding Polling Units and Results
+**File:** `summed_results.php`  
+- Allows the addition of new polling units along with their respective results for each party.
+- Incorporates a selection combo for ease of use.
+
+## CSS Styling
+- Styles the form and table to enhance the user interface.
